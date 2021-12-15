@@ -34,8 +34,17 @@ Further works may be expected post this initial proof of concept for this Capsto
 
 # Notebooks
 
-You will need to download the dataset (~3GB) via download.py to run the first 3 notebooks (1_data_exploratory / 2_model_training / 3_validation_test).\
-You can however, run the 4th notebook (4_preview_results) without the dataset, and feel free to test with your custom images of trash and recyclables.
+You will need to download the dataset (~3GB) via download.py to run the first 3 notebooks:
+* 1_data_exploratory
+* 2_model_training
+* 3_validation_test)
+
+Please download into '/data' directory.
+
+You can however, run the 4th notebook
+* 4_preview_results
+
+without the dataset, and feel free to test with your custom images of trash and recyclables.
 
 # References and Resources
 
