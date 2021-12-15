@@ -41,10 +41,8 @@ You will need to download the dataset (~3GB) via download.py to run the first 3 
 
 Please download into '/data' directory.
 
-You can however, run the 4th notebook
+You can however, run the 4th notebook without the dataset, and feel free to test with your custom images of trash and recyclables.
 * 4_preview_results
-
-without the dataset, and feel free to test with your custom images of trash and recyclables.
 
 # References and Resources
 
